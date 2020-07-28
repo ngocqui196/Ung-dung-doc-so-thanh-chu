@@ -15,6 +15,7 @@ public class CountLesshundreds {
         switch (hundreds) {
             case 1:
                 hundred = "One";
+                break;
             case 2:
                 hundred = "Two";
                 break;
